@@ -1,0 +1,26 @@
+#virtual environments
+venv/
+env/
+.venv
+.env
+
+#python cache 
+__pycache__/
+*.__pycache__
+*.pyd
+*.pyc
+*.pyo
+#output folders
+extras/
+outputs/
+logs/
+*.logs
+*.csv
+
+#os files
+.DS_Store
+Thumbs.db
+
+#IDE files
+.vscode/
+.idea/
