@@ -1,5 +1,4 @@
 
-````markdown
 # 🩺 MyFootDr Clinic Scraper
 
 A clean and reliable Python web scraper that collects clinic data (name, address, phone, email, and services) from the **archived MyFootDr** website via the Wayback Machine.  
